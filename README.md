@@ -1,4 +1,4 @@
-# warcfilter: 
+# warcfilter
 
 A simple node js cli program that filters out WARC records based on an argument criteria
 

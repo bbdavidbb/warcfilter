@@ -2,9 +2,6 @@
 
 A simple node js cli program that filters out WARC records based on an argument criteria
 
-## Wireframes
-Our designer made wireframes for us and we utilized them to design the frontend: https://www.figma.com/file/cZoci5JaV55iGBKVTwUpT2/ProCollabDesign?node-id=0%3A1
-
 ## Scripts on how to run this directory 
 
 After downloading node.js from [https://nodejs.org/en/](https://nodejs.org/en/)

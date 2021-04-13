@@ -33,11 +33,11 @@ Below is a list of possible arguments
 - warc
   - only accepts WARC files as src
 - cdx
- - only accepts CDX files as src
- - CDX files must be in same directory as it's WARC file
+  - only accepts CDX files as src
+  - CDX files must be in same directory as it's WARC file
 - createCDX
- - only accepts WARC file as src
- - has mandatory type argument field
+  - only accepts WARC file as src
+  - has mandatory type argument field
 
 ## Example Query
 

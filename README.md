@@ -1,6 +1,6 @@
 # warcfilter
 
-A simple node js cli program that filters out WARC records based on an argument criteria
+A simple node js cli program that filters manipulates and filters out various WARC file formats based on an argument criteria
 
 ## Scripts on how to run this directory 
 

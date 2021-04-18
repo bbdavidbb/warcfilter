@@ -8,12 +8,12 @@ After downloading node.js from [https://nodejs.org/en/](https://nodejs.org/en/)
 
 After cloning this repository, in this project repository run: npm install
 
-After the packages are done downloading run: either
+After the packages are done downloading run: either run the argument below to start the cli interface:
 
 ```
 npm start
 ```
-to start the cli interface or you can directly pass in arguments with
+or you can directly pass in arguments with
 
 ```
 node index.js {arguments}

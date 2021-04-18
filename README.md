@@ -51,7 +51,7 @@ Below is a list of possible arguments
   - has mandatory type argument field
 - genCCWebGraph
   - only accepts a Common crawl wat.paths.gz file as src
-  - Files can be found here [https://commoncrawl.org/the-data/get-started/](Common Crawl datasets)
+  - Common crawl files can be found [here](https://commoncrawl.org/the-data/get-started/)
 
 ## Example Arguement structure
 
